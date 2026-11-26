@@ -1,0 +1,8 @@
+discipline,answered_rfis,avg_days,median_days,max_days,answered_late,still_open,pct_answered_late
+Fire Protection,19,11.3,9.0,26,13,3,68.0
+Mechanical,37,10.7,10.0,25,27,7,73.0
+Electrical,29,9.6,8.0,27,22,4,76.0
+Plumbing,12,9.4,9.5,17,7,2,58.0
+Architectural,68,7.8,5.0,42,29,1,43.0
+Civil,21,6.6,5.0,22,6,0,29.0
+Structural,35,5.2,4.0,11,14,0,40.0

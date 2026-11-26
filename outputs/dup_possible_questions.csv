@@ -1,0 +1,20 @@
+subject,first_rfi,first_submitted,first_status,first_submitted_by,second_rfi,second_submitted,second_status,second_submitted_by,days_apart,first_excel_row,second_excel_row
+Slab on grade joint layout,RFI-007,2025-12-01,Closed,Redstone Concrete,RFI-008,2025-12-01,Closed,Apex Steel Erectors,0,8,9
+Slab on grade joint layout,RFI-007,2025-12-01,Closed,Redstone Concrete,RFI-012,2025-12-08,Closed,Apex Steel Erectors,7,8,13
+Slab on grade joint layout,RFI-008,2025-12-01,Closed,Apex Steel Erectors,RFI-012,2025-12-08,Closed,Apex Steel Erectors,7,9,13
+Water service tie-in location,RFI-019,2025-12-25,Closed,Granite Civil Contractors,RFI-022,2025-12-30,Closed,Granite Civil Contractors,5,20,23
+Water service tie-in location,RFI-034,2026-01-20,Closed,Granite Civil Contractors,RFI-035,2026-01-20,Closed,Granite Civil Contractors,0,35,36
+Slab on grade joint layout,RFI-044,2026-02-04,Void,Apex Steel Erectors,RFI-047,2026-02-09,Closed,Apex Steel Erectors,5,45,48
+Roof screen post connection,RFI-046,2026-02-06,Closed,Redstone Concrete,RFI-051,2026-02-17,Closed,Redstone Concrete,11,47,52
+Retention basin bottom elevation,RFI-066,2026-03-10,Closed,Granite Civil Contractors,RFI-072,2026-03-17,Closed,Granite Civil Contractors,7,67,73
+Fire riser room clearance,RFI-104,2026-04-29,Closed,Sentinel Fire Protection,RFI-110,2026-05-04,Closed,Sentinel Fire Protection,5,105,111
+Fire riser room clearance,RFI-104,2026-04-29,Closed,Sentinel Fire Protection,RFI-118,2026-05-11,Closed,Sentinel Fire Protection,12,105,119
+Fire riser room clearance,RFI-104,2026-04-29,Closed,Sentinel Fire Protection,RFI-124,2026-05-13,Open,Sentinel Fire Protection,14,105,125
+Low voltage rough-in for Nurse Station Level 2,RFI-105,2026-04-30,Closed,BrightLine Electric,RFI-113,2026-05-04,Closed,BrightLine Electric,4,106,114
+Fire riser room clearance,RFI-110,2026-05-04,Closed,Sentinel Fire Protection,RFI-118,2026-05-11,Closed,Sentinel Fire Protection,7,111,119
+Fire riser room clearance,RFI-110,2026-05-04,Closed,Sentinel Fire Protection,RFI-124,2026-05-13,Open,Sentinel Fire Protection,9,111,125
+Roof parapet flashing detail,RFI-117,2026-05-07,Closed,General Contractor (self-perform),RFI-125,2026-05-13,Closed,Keystone Drywall & Framing,6,118,126
+Fire riser room clearance,RFI-118,2026-05-11,Closed,Sentinel Fire Protection,RFI-124,2026-05-13,Open,Sentinel Fire Protection,2,119,125
+Roof parapet flashing detail,RFI-188,2026-08-07,Closed,Desert Finish Interiors,RFI-190,2026-08-10,Closed,General Contractor (self-perform),3,189,191
+Ceiling height conflict in Room 215,RFI-189,2026-08-10,Closed,General Contractor (self-perform),RFI-199,2026-08-19,Closed,General Contractor (self-perform),9,190,200
+Roof parapet flashing detail,RFI-190,2026-08-10,Closed,General Contractor (self-perform),RFI-206,2026-08-24,Void,Vantage Glass & Glazing,14,191,207

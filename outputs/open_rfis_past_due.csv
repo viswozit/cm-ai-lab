@@ -1,0 +1,14 @@
+rfi_id,date_submitted,date_required,days_overdue,priority,discipline,assigned_to,submitted_by,subject,cost_impact,schedule_impact_days,excel_row
+RFI-079,2026-03-23,2026-04-02,211,Low,Electrical,MEP Engineer,BrightLine Electric,Light fixture type missing in Room 213,No,0,80
+RFI-093,2026-04-13,2026-04-23,190,Low,Mechanical,MEP Engineer,Summit Mechanical,RTU-2 curb dimension mismatch,No,0,94
+RFI-124,2026-05-13,2026-05-20,163,Medium,Fire Protection,MEP Engineer,Sentinel Fire Protection,Fire riser room clearance,TBD,0,125
+RFI-122,2026-05-12,2026-05-22,161,Low,Mechanical,MEP Engineer,Summit Mechanical,Smoke damper access at corridor Level 2,No,0,123
+RFI-139,2026-05-27,2026-06-03,149,Medium,Mechanical,MEP Engineer,Summit Mechanical,VAV box access clearance in Room 425,Yes,0,140
+RFI-145,2026-06-04,2026-06-11,141,Medium,Mechanical,MEP Engineer,Summit Mechanical,Condensate drain routing at Level 2,No,0,146
+RFI-155,2026-06-15,2026-06-22,130,Medium,Mechanical,MEP Engineer,Summit Mechanical,Exhaust fan EF-1 location,TBD,0,156
+RFI-158,2026-06-22,2026-07-02,120,Low,Plumbing,MEP Engineer,ClearFlow Plumbing,Sink rough-in height in Room 336,TBD,0,159
+RFI-176,2026-07-15,2026-07-22,100,Medium,Mechanical,MEP Engineer,Summit Mechanical,RTU-12 curb dimension mismatch,No,0,177
+RFI-224,2026-09-17,2026-09-24,36,Medium,Electrical,MEP Engineer,BrightLine Electric,Receptacle heights in Exam 312,TBD,0,225
+RFI-233,2026-10-02,2026-10-09,21,Medium,Electrical,MEP Engineer,BrightLine Electric,Receptacle heights in Exam 118,TBD,0,234
+RFI-243,2026-10-19,2026-10-29,1,Low,Electrical,MEP Engineer,BrightLine Electric,Receptacle heights in Exam 104,Yes,0,244
+RFI-248,2026-10-26,2026-10-29,1,High,Architectural,Architect,Vantage Glass & Glazing,Window sill height in Room 334,TBD,0,249
