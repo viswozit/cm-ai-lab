@@ -1,0 +1,251 @@
+rfi_id,date_submitted,discipline,subject,submitted_by,priority,assigned_to,date_required,date_answered,status,cost_impact,schedule_impact_days
+RFI-001,2025-11-14,Architectural,Roof parapet flashing detail,Desert Finish Interiors,Medium,Architect,2025-11-21,2025-11-21,Closed,No,0
+RFI-002,2025-11-17,Structural,Deck opening reinforcement at Level 2,Redstone Concrete,Low,Structural Engineer,2025-11-27,2025-11-26,Closed,No,0
+RFI-003,2025-11-19,Civil,Curb ramp detail at drop-off canopy,Granite Civil Contractors,Low,Civil Engineer,2025-11-29,2025-11-25,Closed,No,0
+RFI-004,2025-11-24,Structural,Embed plate location conflict at grid C/8,Redstone Concrete,High,Structural Engineer,2025-11-27,2025-11-28,Closed,No,0
+RFI-005,2025-11-25,Architectural,Window sill height in Room 229,Desert Finish Interiors,High,Architect,2025-11-28,2025-11-28,Closed,No,0
+RFI-006,2025-12-01,Architectural,Finish schedule missing for Room 437,Keystone Drywall & Framing,Medium,Architect,2025-12-08,2025-12-10,Closed,No,0
+RFI-007,2025-12-01,Structural,Slab on grade joint layout,Redstone Concrete,High,Structural Engineer,2025-12-04,2025-12-05,Closed,No,0
+RFI-008,2025-12-01,Structural,Slab on grade joint layout,Apex Steel Erectors,Medium,Structural Engineer,2025-12-08,2025-12-05,Closed,Yes,5
+RFI-009,2025-12-04,Plumbing,Roof drain overflow routing,ClearFlow Plumbing,Low,MEP Engineer,2025-12-14,2025-12-15,Closed,Yes,2
+RFI-010,2025-12-05,Structural,Roof screen post connection,Redstone Concrete,Medium,Structural Engineer,2025-12-12,2025-12-08,Closed,No,0
+RFI-011,2025-12-08,Civil,Retention basin bottom elevation,Granite Civil Contractors,Medium,Civil Engineer,2025-12-15,2025-12-11,Closed,No,0
+RFI-012,2025-12-08,Structural,Slab on grade joint layout,Apex Steel Erectors,High,Structural Engineer,2025-12-11,2025-12-09,Closed,No,0
+RFI-013,2025-12-08,Civil,Water service tie-in location,Granite Civil Contractors,Medium,Civil Engineer,2025-12-15,2025-12-12,Closed,No,0
+RFI-014,2025-12-10,Civil,Storm drain invert conflict at CB-6,Granite Civil Contractors,Low,Civil Engineer,2025-12-20,2025-12-12,Closed,No,0
+RFI-015,2025-12-12,Civil,Existing utility found during excavation near grid A/4,Granite Civil Contractors,Medium,Civil Engineer,2025-12-19,2025-12-17,Closed,No,0
+RFI-016,2025-12-22,Structural,Footing size change at grid D/8,Apex Steel Erectors,Medium,Structural Engineer,2025-12-29,2025-12-26,Closed,No,0
+RFI-017,2025-12-23,Civil,Site lighting pole base detail,Granite Civil Contractors,High,Civil Engineer,2025-12-26,2025-12-28,Closed,No,0
+RFI-018,2025-12-25,Civil,Storm drain invert conflict at CB-9,Granite Civil Contractors,Low,Civil Engineer,2026-01-04,2026-01-02,Closed,No,0
+RFI-019,2025-12-25,Civil,Water service tie-in location,Granite Civil Contractors,Medium,Civil Engineer,2026-01-01,2026-01-01,Closed,No,0
+RFI-020,2025-12-25,Civil,Existing utility found during excavation near grid G/1,Granite Civil Contractors,Low,Civil Engineer,2026-01-04,2026-01-08,Closed,No,0
+RFI-021,2025-12-30,Civil,ADA ramp slope at main entry walk,Granite Civil Contractors,High,Civil Engineer,2026-01-02,2026-01-05,Closed,No,0
+RFI-022,2025-12-30,Civil,Water service tie-in location,Granite Civil Contractors,High,Civil Engineer,2026-01-02,2026-01-02,Closed,No,0
+RFI-023,2026-01-01,Architectural,Casework elevation clarification in Exam 421,Desert Finish Interiors,Medium,Architect,2026-01-08,2026-01-04,Closed,No,0
+RFI-024,2026-01-02,Civil,Retention basin bottom elevation,Granite Civil Contractors,Low,Civil Engineer,2026-01-12,2026-01-24,Closed,No,0
+RFI-025,2026-01-02,Structural,Slab edge detail at Stair 1,Redstone Concrete,Medium,Structural Engineer,2026-01-09,2026-01-07,Closed,No,0
+RFI-026,2026-01-05,Civil,Owner-selected finish confirmation for Lobby,Granite Civil Contractors,Low,Owner,2026-01-15,,Void,No,0
+RFI-027,2026-01-05,Structural,Slab on grade joint layout,Apex Steel Erectors,Medium,Structural Engineer,2026-01-12,,Void,No,0
+RFI-028,2026-01-05,Civil,Storm drain invert conflict at CB-6,Granite Civil Contractors,Medium,Civil Engineer,2026-01-12,2026-01-08,Closed,No,0
+RFI-029,2026-01-05,Structural,Deck opening reinforcement at Level 3,Redstone Concrete,Medium,Structural Engineer,2026-01-12,2026-01-07,Closed,Yes,0
+RFI-030,2026-01-06,Civil,Curb ramp detail at drop-off canopy,Granite Civil Contractors,Low,Civil Engineer,2026-01-16,2026-01-12,Closed,Yes,5
+RFI-031,2026-01-14,Architectural,Roof parapet flashing detail,General Contractor (self-perform),Medium,Architect,2026-01-21,2026-01-18,Closed,No,0
+RFI-032,2026-01-16,Mechanical,VAV box access clearance in Room 331,Summit Mechanical,Medium,MEP Engineer,2026-01-23,2026-02-02,Closed,No,0
+RFI-033,2026-01-19,Architectural,Window sill height in Room 224,Desert Finish Interiors,Medium,Architect,2026-01-26,2026-01-25,Closed,No,0
+RFI-034,2026-01-20,Civil,Water service tie-in location,Granite Civil Contractors,Medium,Civil Engineer,2026-01-27,2026-01-31,Closed,No,0
+RFI-035,2026-01-20,Civil,Water service tie-in location,Granite Civil Contractors,High,Civil Engineer,2026-01-23,2026-01-23,Closed,No,0
+RFI-036,2026-01-21,Structural,Deck opening reinforcement at Level 4,Redstone Concrete,Medium,Structural Engineer,2026-01-28,2026-01-31,Closed,No,0
+RFI-037,2026-01-26,Architectural,Finish schedule missing for Room 217,Keystone Drywall & Framing,Low,Architect,2026-02-05,2026-02-03,Closed,No,0
+RFI-038,2026-01-29,Structural,Slab edge detail at Stair 3,Redstone Concrete,High,Structural Engineer,2026-02-01,2026-02-02,Closed,No,0
+RFI-039,2026-01-29,Structural,Deck opening reinforcement at Level 2,Apex Steel Erectors,Medium,Structural Engineer,2026-02-05,2026-02-01,Closed,No,0
+RFI-040,2026-01-30,Architectural,Restroom accessory mounting heights Level 2,Desert Finish Interiors,Medium,Architect,2026-02-06,2026-02-05,Closed,No,0
+RFI-041,2026-01-30,Structural,Moment connection detail at grid F/1,Apex Steel Erectors,Medium,Structural Engineer,2026-02-06,2026-02-03,Closed,No,0
+RFI-042,2026-01-30,Structural,Signage package scope confirmation,Apex Steel Erectors,High,Owner,2026-02-02,2026-02-08,Closed,No,0
+RFI-043,2026-02-02,Structural,Footing size change at grid F/8,Redstone Concrete,Medium,Structural Engineer,2026-02-09,2026-02-08,Closed,No,0
+RFI-044,2026-02-04,Structural,Slab on grade joint layout,Apex Steel Erectors,Medium,Structural Engineer,2026-02-11,,Void,No,0
+RFI-045,2026-02-05,Civil,Storm drain invert conflict at CB-7,Granite Civil Contractors,Low,Civil Engineer,2026-02-15,2026-02-09,Closed,Yes,1
+RFI-046,2026-02-06,Structural,Roof screen post connection,Redstone Concrete,High,Structural Engineer,2026-02-09,2026-02-10,Closed,No,0
+RFI-047,2026-02-09,Structural,Slab on grade joint layout,Apex Steel Erectors,High,Structural Engineer,2026-02-12,2026-02-11,Closed,No,0
+RFI-048,2026-02-10,Architectural,Storefront head detail at Level Roof,Vantage Glass & Glazing,High,Architect,2026-02-13,2026-02-14,Closed,No,0
+RFI-049,2026-02-11,Architectural,Ceiling height conflict in Room 122,Keystone Drywall & Framing,High,Architect,2026-02-14,2026-02-19,Closed,No,0
+RFI-050,2026-02-16,Architectural,Exterior panel joint layout at Level 2,Keystone Drywall & Framing,Medium,Architect,2026-02-23,2026-02-22,Closed,No,0
+RFI-051,2026-02-17,Structural,Roof screen post connection,Redstone Concrete,Medium,Structural Engineer,2026-02-24,2026-02-28,Closed,No,0
+RFI-052,2026-02-20,Architectural,Door hardware set for Door 404B,Keystone Drywall & Framing,Medium,Architect,2026-02-27,2026-03-02,Closed,No,0
+RFI-053,2026-02-23,Mechanical,Exhaust fan EF-12 location,Summit Mechanical,Low,MEP Engineer,2026-03-05,2026-03-05,Closed,No,0
+RFI-054,2026-02-24,Structural,Footing size change at grid B/1,Apex Steel Erectors,High,Structural Engineer,2026-02-27,2026-02-26,Closed,No,0
+RFI-055,2026-02-24,Structural,Slab edge detail at Stair 1,Redstone Concrete,Low,Structural Engineer,2026-03-06,2026-03-05,Closed,No,0
+RFI-056,2026-02-25,Electrical,Low voltage rough-in for Nurse Station Level 3,BrightLine Electric,Medium,MEP Engineer,2026-03-04,2026-03-11,Closed,No,0
+RFI-057,2026-02-27,Structural,Slab on grade joint layout,Redstone Concrete,Medium,Structural Engineer,2026-03-06,,Void,No,0
+RFI-058,2026-03-02,Structural,Missing beam size at Level 1 grid G/5,Apex Steel Erectors,Low,Structural Engineer,2026-03-12,2026-03-06,Closed,No,0
+RFI-059,2026-03-05,Structural,Column base plate anchor rod pattern at grid F/5,Apex Steel Erectors,Medium,Structural Engineer,2026-03-12,2026-03-13,Closed,No,0
+RFI-060,2026-03-05,Structural,Footing size change at grid A/2,Apex Steel Erectors,Medium,Structural Engineer,2026-03-12,2026-03-09,Closed,No,0
+RFI-061,2026-03-05,Architectural,Casework elevation clarification in Exam 426,Vantage Glass & Glazing,Low,Architect,2026-03-15,2026-03-15,Closed,No,0
+RFI-062,2026-03-05,Civil,ADA ramp slope at main entry walk,Granite Civil Contractors,Medium,Civil Engineer,2026-03-12,2026-03-09,Closed,No,0
+RFI-063,2026-03-09,Architectural,Window sill height in Room 127,Keystone Drywall & Framing,High,Architect,2026-03-12,2026-03-11,Closed,No,0
+RFI-064,2026-03-09,Architectural,Roof parapet flashing detail,General Contractor (self-perform),High,Architect,2026-03-12,2026-03-24,Closed,No,0
+RFI-065,2026-03-10,Structural,Slab edge detail at Stair 3,Apex Steel Erectors,Low,Structural Engineer,2026-03-20,2026-03-15,Closed,No,0
+RFI-066,2026-03-10,Civil,Retention basin bottom elevation,Granite Civil Contractors,Medium,Civil Engineer,2026-03-17,2026-03-15,Closed,No,0
+RFI-067,2026-03-10,Architectural,Window sill height in Room 425,Keystone Drywall & Framing,High,Architect,2026-03-13,2026-03-14,Closed,No,0
+RFI-068,2026-03-13,Civil,Curb ramp detail at drop-off canopy,Granite Civil Contractors,High,Civil Engineer,2026-03-16,2026-03-22,Closed,No,0
+RFI-069,2026-03-13,Architectural,Door hardware set for Door 414A,General Contractor (self-perform),Medium,Architect,2026-03-20,2026-03-18,Closed,No,0
+RFI-070,2026-03-13,Architectural,Restroom accessory mounting heights Level 3,General Contractor (self-perform),High,Architect,2026-03-16,2026-03-17,Closed,No,0
+RFI-071,2026-03-16,Structural,Slab on grade joint layout,Redstone Concrete,High,Structural Engineer,2026-03-19,2026-03-21,Closed,No,0
+RFI-072,2026-03-17,Civil,Retention basin bottom elevation,Granite Civil Contractors,Low,Civil Engineer,2026-03-27,2026-03-26,Closed,No,0
+RFI-073,2026-03-19,Structural,Moment connection detail at grid C/2,Apex Steel Erectors,Medium,Structural Engineer,2026-03-26,2026-03-24,Closed,No,0
+RFI-074,2026-03-19,Structural,Roof screen post connection,Redstone Concrete,High,Structural Engineer,2026-03-22,2026-03-25,Closed,No,0
+RFI-075,2026-03-23,Architectural,Ceiling height conflict in Room 219,Vantage Glass & Glazing,Low,Architect,2026-04-02,2026-04-04,Closed,No,0
+RFI-076,2026-03-23,Electrical,Owner-furnished equipment dimensions for Imaging Room 205,BrightLine Electric,Medium,Owner,2026-03-30,2026-04-19,Closed,No,0
+RFI-077,2026-03-23,Architectural,Restroom accessory mounting heights Level 1,Keystone Drywall & Framing,Medium,Architect,2026-03-30,2026-03-27,Closed,No,0
+RFI-078,2026-03-23,Structural,Slab edge detail at Stair 1,Apex Steel Erectors,High,Structural Engineer,2026-03-26,2026-03-31,Closed,No,0
+RFI-079,2026-03-23,Electrical,Light fixture type missing in Room 213,BrightLine Electric,Low,MEP Engineer,2026-04-02,,Open,No,0
+RFI-080,2026-03-25,Structural,Deck opening reinforcement at Level 3,Apex Steel Erectors,High,Structural Engineer,2026-03-28,2026-03-30,Closed,No,0
+RFI-081,2026-03-26,Structural,Column base plate anchor rod pattern at grid C/3,Apex Steel Erectors,Medium,Structural Engineer,2026-04-02,2026-03-28,Closed,Yes,2
+RFI-082,2026-03-26,Architectural,Wall type at corridor near Room 412,Keystone Drywall & Framing,Medium,Architect,2026-04-02,,Void,No,0
+RFI-083,2026-04-01,Architectural,Door hardware set for Door 225B,General Contractor (self-perform),Medium,Architect,2026-04-08,2026-04-10,Closed,No,0
+RFI-084,2026-04-03,Fire Protection,Standpipe location at Stair 1,Sentinel Fire Protection,Medium,MEP Engineer,2026-04-10,2026-04-17,Closed,No,0
+RFI-085,2026-04-06,Architectural,Ceiling height conflict in Room 425,Desert Finish Interiors,Medium,Architect,2026-04-13,2026-04-11,Closed,No,0
+RFI-086,2026-04-06,Fire Protection,Standpipe location at Stair 2,Sentinel Fire Protection,Medium,MEP Engineer,2026-04-13,2026-04-16,Closed,No,0
+RFI-087,2026-04-07,Electrical,Fire alarm device spacing in Corridor Level 1,BrightLine Electric,Medium,MEP Engineer,2026-04-14,2026-04-15,Closed,No,0
+RFI-088,2026-04-08,Electrical,Light fixture type missing in Room 311,BrightLine Electric,High,MEP Engineer,2026-04-11,2026-04-14,Closed,No,0
+RFI-089,2026-04-09,Plumbing,Owner-selected finish confirmation for Lobby,ClearFlow Plumbing,Medium,Owner,2026-04-16,2026-04-13,Closed,No,0
+RFI-090,2026-04-13,Electrical,Conduit routing through shear wall at grid C/8,BrightLine Electric,Medium,MEP Engineer,2026-04-20,2026-04-18,Closed,No,0
+RFI-091,2026-04-13,Electrical,Light fixture type missing in Room 136,BrightLine Electric,Medium,MEP Engineer,2026-04-20,2026-04-17,Closed,No,0
+RFI-092,2026-04-13,Mechanical,VAV box access clearance in Room 311,Summit Mechanical,High,MEP Engineer,2026-04-16,2026-04-18,Closed,No,0
+RFI-093,2026-04-13,Mechanical,RTU-2 curb dimension mismatch,Summit Mechanical,Low,MEP Engineer,2026-04-23,,Open,No,0
+RFI-094,2026-04-15,Electrical,Generator pad location,BrightLine Electric,Medium,MEP Engineer,2026-04-22,2026-04-26,Closed,No,0
+RFI-095,2026-04-22,Architectural,Casework elevation clarification in Exam 213,Keystone Drywall & Framing,Medium,Architect,2026-04-29,2026-04-26,Closed,No,0
+RFI-096,2026-04-23,Electrical,Conduit routing through shear wall at grid H/5,BrightLine Electric,Low,MEP Engineer,2026-05-03,2026-05-03,Closed,No,0
+RFI-097,2026-04-24,Mechanical,Smoke damper access at corridor Level 2,Summit Mechanical,Low,MEP Engineer,2026-05-04,,Void,No,0
+RFI-098,2026-04-27,Fire Protection,Sprinkler head spacing at soffit near Room 222,Sentinel Fire Protection,High,MEP Engineer,2026-04-30,2026-05-05,Closed,Yes,2
+RFI-099,2026-04-27,Mechanical,Diffuser layout conflict with lights in Room 410,Summit Mechanical,Medium,MEP Engineer,2026-05-04,2026-05-13,Closed,No,0
+RFI-100,2026-04-28,Electrical,Fire alarm device spacing in Corridor Level Roof,BrightLine Electric,Medium,MEP Engineer,2026-05-05,2026-05-03,Closed,No,0
+RFI-101,2026-04-28,Architectural,Wall type at corridor near Room 337,Desert Finish Interiors,Medium,Architect,2026-05-05,2026-05-07,Closed,No,0
+RFI-102,2026-04-28,Mechanical,Condensate drain routing at Level 3,Summit Mechanical,High,MEP Engineer,2026-05-01,2026-05-02,Closed,No,0
+RFI-103,2026-04-28,Fire Protection,Standpipe location at Stair 1,Sentinel Fire Protection,High,MEP Engineer,2026-05-01,2026-05-01,Closed,No,0
+RFI-104,2026-04-29,Fire Protection,Fire riser room clearance,Sentinel Fire Protection,Medium,MEP Engineer,2026-05-06,2026-05-24,Closed,No,0
+RFI-105,2026-04-30,Electrical,Low voltage rough-in for Nurse Station Level 2,BrightLine Electric,Medium,MEP Engineer,2026-05-07,2026-05-07,Closed,No,0
+RFI-106,2026-04-30,Mechanical,VAV box access clearance in Room 103,Summit Mechanical,High,MEP Engineer,2026-05-03,2026-05-02,Closed,No,0
+RFI-107,2026-04-30,Electrical,Low voltage rough-in for Nurse Station Level 3,BrightLine Electric,Medium,MEP Engineer,2026-05-07,2026-05-15,Closed,No,0
+RFI-108,2026-05-01,Structural,Deck opening reinforcement at Level Roof,Redstone Concrete,Medium,Structural Engineer,2026-05-08,2026-05-08,Closed,No,0
+RFI-109,2026-05-01,Mechanical,VAV box access clearance in Room 123,Summit Mechanical,Medium,MEP Engineer,2026-05-08,2026-05-09,Closed,No,0
+RFI-110,2026-05-04,Fire Protection,Fire riser room clearance,Sentinel Fire Protection,Medium,MEP Engineer,2026-05-11,2026-05-17,Closed,No,0
+RFI-111,2026-05-04,Architectural,Finish schedule missing for Room 425,Keystone Drywall & Framing,Medium,Architect,2026-05-11,2026-06-05,Closed,No,0
+RFI-112,2026-05-04,Electrical,Conduit routing through shear wall at grid C/7,BrightLine Electric,Medium,MEP Engineer,2026-05-11,2026-05-18,Closed,Yes,1
+RFI-113,2026-05-04,Electrical,Low voltage rough-in for Nurse Station Level 2,BrightLine Electric,High,MEP Engineer,2026-05-07,2026-05-12,Closed,Yes,3
+RFI-114,2026-05-04,Mechanical,Smoke damper access at corridor Level 1,Summit Mechanical,Medium,MEP Engineer,2026-05-11,2026-05-09,Closed,No,0
+RFI-115,2026-05-07,Architectural,Restroom accessory mounting heights Level 3,General Contractor (self-perform),Medium,Architect,2026-05-14,2026-05-13,Closed,No,0
+RFI-116,2026-05-07,Architectural,Wall type at corridor near Room 202,Vantage Glass & Glazing,High,Architect,2026-05-10,2026-05-08,Closed,No,0
+RFI-117,2026-05-07,Architectural,Roof parapet flashing detail,General Contractor (self-perform),Medium,Architect,2026-05-14,2026-05-12,Closed,No,0
+RFI-118,2026-05-11,Fire Protection,Fire riser room clearance,Sentinel Fire Protection,Low,MEP Engineer,2026-05-21,2026-06-06,Closed,No,0
+RFI-119,2026-05-11,Fire Protection,Sprinkler head spacing at soffit near Room 102,Sentinel Fire Protection,Medium,MEP Engineer,2026-05-18,2026-05-16,Closed,No,0
+RFI-120,2026-05-12,Mechanical,Diffuser layout conflict with lights in Room 227,Summit Mechanical,Medium,MEP Engineer,2026-05-19,2026-05-26,Closed,No,0
+RFI-121,2026-05-12,Architectural,Storefront head detail at Level 3,Keystone Drywall & Framing,Low,Architect,2026-05-22,2026-05-18,Closed,No,0
+RFI-122,2026-05-12,Mechanical,Smoke damper access at corridor Level 2,Summit Mechanical,Low,MEP Engineer,2026-05-22,,Open,No,0
+RFI-123,2026-05-13,Structural,Slab edge detail at Stair 2,Redstone Concrete,High,Structural Engineer,2026-05-16,2026-05-17,Closed,No,0
+RFI-124,2026-05-13,Fire Protection,Fire riser room clearance,Sentinel Fire Protection,Medium,MEP Engineer,2026-05-20,,Open,TBD,0
+RFI-125,2026-05-13,Architectural,Roof parapet flashing detail,Keystone Drywall & Framing,Medium,Architect,2026-05-20,2026-05-17,Closed,No,0
+RFI-126,2026-05-14,Architectural,Storefront head detail at Level 4,Desert Finish Interiors,Medium,Architect,2026-05-21,2026-05-18,Closed,No,0
+RFI-127,2026-05-18,Mechanical,Diffuser layout conflict with lights in Room 110,Summit Mechanical,High,MEP Engineer,2026-05-21,2026-05-21,Closed,Yes,7
+RFI-128,2026-05-18,Electrical,Receptacle heights in Exam 318,BrightLine Electric,High,MEP Engineer,2026-05-21,2026-05-24,Closed,Yes,2
+RFI-129,2026-05-18,Plumbing,Floor drain location at Level Roof restroom,ClearFlow Plumbing,Medium,MEP Engineer,2026-05-25,2026-06-02,Closed,No,0
+RFI-130,2026-05-18,Plumbing,Sanitary line slope conflict at grid G/8,ClearFlow Plumbing,Medium,MEP Engineer,2026-05-25,2026-05-23,Closed,No,0
+RFI-131,2026-05-18,Plumbing,Floor drain location at Level 3 restroom,ClearFlow Plumbing,High,MEP Engineer,2026-05-21,2026-05-27,Closed,No,0
+RFI-132,2026-05-18,Fire Protection,Sprinkler main routing conflict at Level Roof,Sentinel Fire Protection,Low,MEP Engineer,2026-05-28,2026-05-27,Closed,No,0
+RFI-133,2026-05-19,Architectural,Finish schedule missing for Room 333,Vantage Glass & Glazing,Low,Architect,2026-05-29,,Void,No,0
+RFI-134,2026-05-19,Mechanical,Duct routing conflict with beam at Level 3 grid D/3,Summit Mechanical,Medium,MEP Engineer,2026-05-26,2026-06-06,Closed,No,0
+RFI-135,2026-05-20,Electrical,Light fixture type missing in Room 321,BrightLine Electric,Medium,MEP Engineer,2026-05-27,2026-05-30,Closed,No,0
+RFI-136,2026-05-25,Structural,Missing beam size at Level 2 grid E/7,Apex Steel Erectors,Medium,Structural Engineer,2026-06-01,2026-05-29,Closed,No,0
+RFI-137,2026-05-25,Mechanical,Owner-furnished equipment dimensions for Imaging Room 328,Summit Mechanical,Low,Owner,2026-06-04,2026-06-07,Closed,No,0
+RFI-138,2026-05-26,Architectural,Casework elevation clarification in Exam 109,Keystone Drywall & Framing,Medium,Architect,2026-06-02,2026-06-09,Closed,No,0
+RFI-139,2026-05-27,Mechanical,VAV box access clearance in Room 425,Summit Mechanical,Medium,MEP Engineer,2026-06-03,,Open,Yes,0
+RFI-140,2026-05-29,Architectural,Exterior panel joint layout at Level 3,Keystone Drywall & Framing,Medium,Architect,2026-06-05,2026-06-03,Closed,No,0
+RFI-141,2026-06-01,Mechanical,VAV box access clearance in Room 132,Summit Mechanical,Medium,MEP Engineer,2026-06-08,2026-06-16,Closed,No,0
+RFI-142,2026-06-01,Architectural,Finish schedule missing for Room 326,Vantage Glass & Glazing,High,Architect,2026-06-04,2026-06-05,Closed,No,0
+RFI-143,2026-06-02,Mechanical,Owner-furnished equipment dimensions for Imaging Room 122,Summit Mechanical,High,Owner,2026-06-05,,Void,No,0
+RFI-144,2026-06-03,Architectural,Storefront head detail at Level 3,Desert Finish Interiors,High,Architect,2026-06-06,2026-06-08,Closed,No,0
+RFI-145,2026-06-04,Mechanical,Condensate drain routing at Level 2,Summit Mechanical,Medium,MEP Engineer,2026-06-11,,Open,No,0
+RFI-146,2026-06-05,Mechanical,Exhaust fan EF-12 location,Summit Mechanical,Medium,MEP Engineer,2026-06-12,,Void,No,0
+RFI-147,2026-06-08,Architectural,Finish schedule missing for Room 211,Vantage Glass & Glazing,Medium,Architect,2026-06-15,2026-07-02,Closed,No,0
+RFI-148,2026-06-08,Mechanical,Smoke damper access at corridor Level 2,Summit Mechanical,High,MEP Engineer,2026-06-11,2026-06-14,Closed,No,0
+RFI-149,2026-06-09,Mechanical,VAV box access clearance in Room 102,Summit Mechanical,High,MEP Engineer,2026-06-12,2026-06-24,Closed,No,0
+RFI-150,2026-06-11,Mechanical,Smoke damper access at corridor Level Roof,Summit Mechanical,Medium,MEP Engineer,2026-06-18,2026-06-16,Closed,No,0
+RFI-151,2026-06-11,Fire Protection,Standpipe location at Stair 3,Sentinel Fire Protection,High,MEP Engineer,2026-06-14,2026-06-15,Closed,No,0
+RFI-152,2026-06-12,Structural,Deck opening reinforcement at Level 4,Apex Steel Erectors,Medium,Structural Engineer,2026-06-19,2026-06-18,Closed,No,0
+RFI-153,2026-06-12,Mechanical,Duct routing conflict with beam at Level Roof grid A/5,Summit Mechanical,Medium,MEP Engineer,2026-06-19,2026-06-26,Closed,Yes,3
+RFI-154,2026-06-15,Fire Protection,Sprinkler head spacing at soffit near Room 308,Sentinel Fire Protection,Medium,MEP Engineer,2026-06-22,2026-06-21,Closed,No,0
+RFI-155,2026-06-15,Mechanical,Exhaust fan EF-1 location,Summit Mechanical,Medium,MEP Engineer,2026-06-22,,Open,TBD,0
+RFI-156,2026-06-18,Electrical,Light fixture type missing in Room 321,BrightLine Electric,Medium,MEP Engineer,2026-06-25,2026-07-01,Closed,Yes,5
+RFI-157,2026-06-19,Electrical,Receptacle heights in Exam 114,BrightLine Electric,Low,MEP Engineer,2026-06-29,2026-07-01,Closed,No,0
+RFI-158,2026-06-22,Plumbing,Sink rough-in height in Room 336,ClearFlow Plumbing,Low,MEP Engineer,2026-07-02,,Open,TBD,0
+RFI-159,2026-06-22,Mechanical,Owner IT room equipment layout,Summit Mechanical,High,Owner,2026-06-25,2026-06-29,Closed,Yes,2
+RFI-160,2026-06-22,Mechanical,Duct routing conflict with beam at Level 1 grid B/4,Summit Mechanical,Low,MEP Engineer,2026-07-02,2026-06-27,Closed,No,0
+RFI-161,2026-06-22,Mechanical,Smoke damper access at corridor Level 4,Summit Mechanical,Medium,MEP Engineer,2026-06-29,2026-07-17,Closed,No,0
+RFI-162,2026-06-23,Plumbing,Water heater WH-1 access,ClearFlow Plumbing,Medium,MEP Engineer,2026-06-30,2026-07-09,Closed,No,0
+RFI-163,2026-06-24,Mechanical,Smoke damper access at corridor Level 2,Summit Mechanical,Medium,MEP Engineer,2026-07-01,2026-07-01,Closed,Yes,0
+RFI-164,2026-06-24,Electrical,Generator pad location,BrightLine Electric,Medium,MEP Engineer,2026-07-01,2026-07-02,Closed,Yes,0
+RFI-165,2026-06-29,Architectural,Wall type at corridor near Room 117,Keystone Drywall & Framing,Low,Architect,2026-07-09,2026-07-04,Closed,No,0
+RFI-166,2026-06-30,Plumbing,Floor drain location at Level 2 restroom,ClearFlow Plumbing,Low,MEP Engineer,2026-07-10,2026-07-10,Closed,Yes,7
+RFI-167,2026-07-02,Mechanical,Exhaust fan EF-5 location,Summit Mechanical,Low,MEP Engineer,2026-07-12,2026-07-14,Closed,No,0
+RFI-168,2026-07-06,Plumbing,Roof drain overflow routing,ClearFlow Plumbing,Low,MEP Engineer,2026-07-16,2026-07-23,Closed,No,0
+RFI-169,2026-07-06,Mechanical,RTU-3 curb dimension mismatch,Summit Mechanical,High,MEP Engineer,2026-07-09,,Void,No,0
+RFI-170,2026-07-08,Architectural,Door hardware set for Door 306B,Keystone Drywall & Framing,Medium,Architect,2026-07-15,2026-07-24,Closed,No,0
+RFI-171,2026-07-10,Fire Protection,Sprinkler main routing conflict at Level 2,Sentinel Fire Protection,Medium,MEP Engineer,2026-07-17,2026-07-23,Closed,No,0
+RFI-172,2026-07-13,Electrical,Fire alarm device spacing in Corridor Level 2,BrightLine Electric,Medium,MEP Engineer,2026-07-20,2026-07-22,Closed,No,0
+RFI-173,2026-07-13,Plumbing,Medical gas outlet count in Exam 205,ClearFlow Plumbing,Medium,MEP Engineer,2026-07-20,2026-07-24,Closed,No,0
+RFI-174,2026-07-13,Fire Protection,Fire riser room clearance,Sentinel Fire Protection,Medium,MEP Engineer,2026-07-20,2026-07-20,Closed,No,0
+RFI-175,2026-07-15,Structural,Owner-furnished equipment dimensions for Imaging Room 317,Apex Steel Erectors,High,Owner,2026-07-18,2026-07-23,Closed,No,0
+RFI-176,2026-07-15,Mechanical,RTU-12 curb dimension mismatch,Summit Mechanical,Medium,MEP Engineer,2026-07-22,,Open,No,0
+RFI-177,2026-07-20,Mechanical,Duct routing conflict with beam at Level 1 grid D/8,Summit Mechanical,High,MEP Engineer,2026-07-23,2026-07-28,Closed,No,0
+RFI-178,2026-07-20,Fire Protection,Sprinkler main routing conflict at Level 4,Sentinel Fire Protection,Medium,MEP Engineer,2026-07-27,2026-07-29,Closed,No,0
+RFI-179,2026-07-21,Mechanical,VAV box access clearance in Room 304,Summit Mechanical,High,MEP Engineer,2026-07-24,2026-07-28,Closed,No,0
+RFI-180,2026-07-22,Electrical,Low voltage rough-in for Nurse Station Level 1,BrightLine Electric,High,MEP Engineer,2026-07-25,2026-07-28,Closed,No,0
+RFI-181,2026-07-23,Plumbing,Sanitary line slope conflict at grid H/8,ClearFlow Plumbing,High,MEP Engineer,2026-07-26,2026-07-28,Closed,No,0
+RFI-182,2026-07-24,Plumbing,Water heater WH-2 access,ClearFlow Plumbing,Low,MEP Engineer,2026-08-03,2026-07-31,Closed,No,0
+RFI-183,2026-07-24,Electrical,Receptacle heights in Exam 112,BrightLine Electric,Medium,MEP Engineer,2026-07-31,2026-08-13,Closed,No,0
+RFI-184,2026-07-27,Electrical,Conduit routing through shear wall at grid C/3,BrightLine Electric,Medium,MEP Engineer,2026-08-03,2026-08-03,Closed,No,0
+RFI-185,2026-07-27,Mechanical,Duct routing conflict with beam at Level 3 grid H/8,Summit Mechanical,High,MEP Engineer,2026-07-30,2026-08-05,Closed,No,0
+RFI-186,2026-07-30,Electrical,Light fixture type missing in Room 134,BrightLine Electric,High,MEP Engineer,2026-08-02,2026-08-05,Closed,No,0
+RFI-187,2026-08-03,Fire Protection,Standpipe location at Stair 1,Sentinel Fire Protection,Low,MEP Engineer,2026-08-13,2026-08-24,Closed,No,0
+RFI-188,2026-08-07,Architectural,Roof parapet flashing detail,Desert Finish Interiors,Medium,Architect,2026-08-14,2026-08-13,Closed,No,0
+RFI-189,2026-08-10,Architectural,Ceiling height conflict in Room 215,General Contractor (self-perform),Medium,Architect,2026-08-17,2026-08-18,Closed,No,0
+RFI-190,2026-08-10,Architectural,Roof parapet flashing detail,General Contractor (self-perform),Medium,Architect,2026-08-17,2026-08-14,Closed,No,0
+RFI-191,2026-08-10,Fire Protection,Sprinkler head spacing at soffit near Room 217,Sentinel Fire Protection,Medium,MEP Engineer,2026-08-17,2026-08-15,Closed,No,0
+RFI-192,2026-08-10,Architectural,Restroom accessory mounting heights Level 1,Desert Finish Interiors,Low,Architect,2026-08-20,2026-09-08,Closed,No,0
+RFI-193,2026-08-10,Architectural,Owner-selected finish confirmation for Lobby,General Contractor (self-perform),Medium,Owner,2026-08-17,2026-09-07,Closed,No,0
+RFI-194,2026-08-11,Mechanical,VAV box access clearance in Room 315,Summit Mechanical,Medium,MEP Engineer,2026-08-18,2026-08-23,Closed,No,0
+RFI-195,2026-08-11,Fire Protection,Sprinkler main routing conflict at Level 2,Sentinel Fire Protection,Medium,MEP Engineer,2026-08-18,2026-08-21,Closed,No,0
+RFI-196,2026-08-12,Mechanical,Diffuser layout conflict with lights in Room 207,Summit Mechanical,Medium,MEP Engineer,2026-08-19,2026-08-21,Closed,No,0
+RFI-197,2026-08-13,Electrical,Fire alarm device spacing in Corridor Level Roof,BrightLine Electric,High,MEP Engineer,2026-08-16,2026-08-23,Closed,No,0
+RFI-198,2026-08-13,Architectural,Casework elevation clarification in Exam 209,Vantage Glass & Glazing,High,Architect,2026-08-16,,Void,No,0
+RFI-199,2026-08-19,Architectural,Ceiling height conflict in Room 215,General Contractor (self-perform),Low,Architect,2026-08-29,2026-08-23,Closed,No,0
+RFI-200,2026-08-19,Architectural,Ceiling height conflict in Room 237,Vantage Glass & Glazing,Low,Architect,2026-08-29,2026-08-23,Closed,No,0
+RFI-201,2026-08-20,Mechanical,VAV box access clearance in Room 116,Summit Mechanical,Low,MEP Engineer,2026-08-30,2026-09-04,Closed,No,0
+RFI-202,2026-08-20,Mechanical,Exhaust fan EF-12 location,Summit Mechanical,Low,MEP Engineer,2026-08-30,2026-09-03,Closed,No,0
+RFI-203,2026-08-21,Architectural,Storefront head detail at Level 4,Keystone Drywall & Framing,Medium,Architect,2026-08-28,2026-08-29,Closed,No,0
+RFI-204,2026-08-24,Mechanical,Duct routing conflict with beam at Level Roof grid F/8,Summit Mechanical,Medium,MEP Engineer,2026-08-31,2026-09-15,Closed,No,0
+RFI-205,2026-08-24,Mechanical,Duct routing conflict with beam at Level 1 grid B/6,Summit Mechanical,Medium,MEP Engineer,2026-08-31,2026-08-30,Closed,No,0
+RFI-206,2026-08-24,Architectural,Roof parapet flashing detail,Vantage Glass & Glazing,High,Architect,2026-08-27,,Void,No,0
+RFI-207,2026-08-24,Plumbing,Sanitary line slope conflict at grid D/1,ClearFlow Plumbing,Medium,MEP Engineer,2026-08-31,2026-08-27,Closed,Yes,1
+RFI-208,2026-08-24,Architectural,Storefront head detail at Level 1,Vantage Glass & Glazing,Medium,Architect,2026-08-31,2026-08-29,Closed,No,0
+RFI-209,2026-08-31,Fire Protection,Sprinkler main routing conflict at Level Roof,Sentinel Fire Protection,Medium,MEP Engineer,2026-09-07,2026-09-08,Closed,No,0
+RFI-210,2026-08-31,Electrical,Receptacle heights in Exam 316,BrightLine Electric,High,MEP Engineer,2026-09-03,2026-09-08,Closed,No,0
+RFI-211,2026-08-31,Architectural,Owner IT room equipment layout,Vantage Glass & Glazing,Low,Owner,2026-09-10,2026-10-12,Closed,Yes,2
+RFI-212,2026-08-31,Architectural,Casework elevation clarification in Exam 406,Vantage Glass & Glazing,Medium,Architect,2026-09-07,2026-09-03,Closed,No,0
+RFI-213,2026-08-31,Electrical,Generator pad location,BrightLine Electric,Medium,MEP Engineer,2026-09-07,2026-09-13,Closed,Yes,3
+RFI-214,2026-09-03,Architectural,Ceiling height conflict in Room 328,Desert Finish Interiors,Medium,Architect,2026-09-10,2026-09-06,Closed,No,0
+RFI-215,2026-09-04,Architectural,Exterior panel joint layout at Level 1,Desert Finish Interiors,Medium,Architect,2026-09-11,2026-09-07,Closed,No,0
+RFI-216,2026-09-04,Electrical,Fire alarm device spacing in Corridor Level 3,BrightLine Electric,High,MEP Engineer,2026-09-07,2026-09-08,Closed,No,0
+RFI-217,2026-09-04,Architectural,Ceiling height conflict in Room 129,Vantage Glass & Glazing,Low,Architect,2026-09-14,2026-09-06,Closed,No,0
+RFI-218,2026-09-07,Architectural,Window sill height in Room 138,Vantage Glass & Glazing,Medium,Architect,2026-09-14,2026-09-18,Closed,Yes,3
+RFI-219,2026-09-07,Mechanical,Duct routing conflict with beam at Level 2 grid G/7,Summit Mechanical,Medium,MEP Engineer,2026-09-14,2026-09-22,Closed,No,0
+RFI-220,2026-09-08,Architectural,Storefront head detail at Level 2,Keystone Drywall & Framing,High,Architect,2026-09-11,2026-09-13,Closed,No,0
+RFI-221,2026-09-11,Electrical,Light fixture type missing in Room 225,BrightLine Electric,Medium,MEP Engineer,2026-09-18,2026-09-19,Closed,No,0
+RFI-222,2026-09-15,Architectural,Restroom accessory mounting heights Level Roof,Vantage Glass & Glazing,High,Architect,2026-09-18,2026-09-20,Closed,No,0
+RFI-223,2026-09-15,Mechanical,Condensate drain routing at Level 3,Summit Mechanical,Medium,MEP Engineer,2026-09-22,2026-10-05,Closed,No,0
+RFI-224,2026-09-17,Electrical,Receptacle heights in Exam 312,BrightLine Electric,Medium,MEP Engineer,2026-09-24,,Open,TBD,0
+RFI-225,2026-09-17,Architectural,Roof parapet flashing detail,Keystone Drywall & Framing,High,Architect,2026-09-20,2026-09-23,Closed,No,0
+RFI-226,2026-09-18,Architectural,Exterior panel joint layout at Level Roof,General Contractor (self-perform),High,Architect,2026-09-21,2026-09-20,Closed,Yes,0
+RFI-227,2026-09-22,Architectural,Wall type at corridor near Room 337,Keystone Drywall & Framing,Medium,Architect,2026-09-29,2026-09-29,Closed,No,0
+RFI-228,2026-09-28,Architectural,Ceiling height conflict in Room 237,Desert Finish Interiors,High,Architect,2026-10-01,2026-10-04,Closed,No,0
+RFI-229,2026-09-28,Fire Protection,Fire riser room clearance,Sentinel Fire Protection,Medium,MEP Engineer,2026-10-05,2026-10-16,Closed,No,0
+RFI-230,2026-09-29,Architectural,Door hardware set for Door 225B,Vantage Glass & Glazing,High,Architect,2026-10-02,2026-10-02,Closed,Yes,7
+RFI-231,2026-09-30,Architectural,Casework elevation clarification in Exam 238,General Contractor (self-perform),Low,Architect,2026-10-10,2026-10-14,Closed,No,0
+RFI-232,2026-10-02,Mechanical,Exhaust fan EF-6 location,Summit Mechanical,Medium,MEP Engineer,2026-10-09,2026-10-15,Closed,No,0
+RFI-233,2026-10-02,Electrical,Receptacle heights in Exam 118,BrightLine Electric,Medium,MEP Engineer,2026-10-09,,Open,TBD,0
+RFI-234,2026-10-05,Mechanical,Condensate drain routing at Level 2,Summit Mechanical,Medium,MEP Engineer,2026-10-12,2026-10-10,Closed,No,0
+RFI-235,2026-10-05,Architectural,Window sill height in Room 435,Vantage Glass & Glazing,Medium,Architect,2026-10-12,2026-10-12,Closed,No,0
+RFI-236,2026-10-05,Electrical,Panel 6L location conflict with door swing,BrightLine Electric,Medium,MEP Engineer,2026-10-12,2026-10-10,Closed,No,0
+RFI-237,2026-10-05,Mechanical,Condensate drain routing at Level 1,Summit Mechanical,Low,MEP Engineer,2026-10-15,2026-10-18,Closed,No,0
+RFI-238,2026-10-06,Architectural,Window sill height in Room 115,Desert Finish Interiors,Medium,Architect,2026-10-13,2026-10-18,Closed,No,0
+RFI-239,2026-10-08,Architectural,Wall type at corridor near Room 427,Keystone Drywall & Framing,High,Architect,2026-10-11,2026-10-13,Closed,No,0
+RFI-240,2026-10-09,Architectural,Exterior panel joint layout at Level 3,General Contractor (self-perform),Low,Architect,2026-10-19,2026-10-13,Closed,Yes,2
+RFI-241,2026-10-12,Mechanical,RTU-7 curb dimension mismatch,Summit Mechanical,High,MEP Engineer,2026-10-15,2026-10-15,Closed,No,0
+RFI-242,2026-10-14,Architectural,Wall type at corridor near Room 119,Keystone Drywall & Framing,Medium,Architect,2026-10-21,2026-10-16,Closed,No,0
+RFI-243,2026-10-19,Electrical,Receptacle heights in Exam 104,BrightLine Electric,Low,MEP Engineer,2026-10-29,,Open,Yes,0
+RFI-244,2026-10-19,Architectural,Window sill height in Room 312,Vantage Glass & Glazing,High,Architect,2026-10-22,2026-10-22,Closed,Yes,7
+RFI-245,2026-10-23,Fire Protection,Sprinkler head spacing at soffit near Room 409,Sentinel Fire Protection,Medium,MEP Engineer,2026-10-30,,Open,TBD,0
+RFI-246,2026-10-26,Plumbing,Medical gas outlet count in Exam 405,ClearFlow Plumbing,Medium,MEP Engineer,2026-11-02,,Open,TBD,0
+RFI-247,2026-10-26,Architectural,Door hardware set for Door 428A,Keystone Drywall & Framing,Medium,Architect,2026-11-02,2026-10-30,Closed,No,0
+RFI-248,2026-10-26,Architectural,Window sill height in Room 334,Vantage Glass & Glazing,High,Architect,2026-10-29,,Open,TBD,0
+RFI-249,2026-10-28,Fire Protection,Sprinkler main routing conflict at Level 4,Sentinel Fire Protection,Medium,MEP Engineer,2026-11-04,,Open,TBD,0
+RFI-250,2026-10-28,Mechanical,Condensate drain routing at Level 4,Summit Mechanical,Medium,MEP Engineer,2026-11-04,,Open,No,0
